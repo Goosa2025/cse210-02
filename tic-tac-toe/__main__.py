@@ -11,7 +11,7 @@ Authors:
 from tictactoe import player_control, create_player_board, player_winner, player_draw, display_board, start_tictactoe
 
 # The main function call other functions to run
-# This mean one entering point
+# This mean one entry point
 
 
 def main():
