@@ -6,7 +6,6 @@ Authors:
   - Ogunniyi Owamamwen
   - Sheyla Norton
   -
-  -
 """
 from tictactoe import player_control, create_player_board, player_winner, player_draw, display_board, start_tictactoe
 
