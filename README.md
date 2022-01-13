@@ -12,7 +12,7 @@ GitHub Steps
 6. You can modify the two files 'main' and tictactoe
 7. git add .
 8. git commit -m 'any message from you modify contents'
-9. git pushit
+9. git push
 
 GUI
 
